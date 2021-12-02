@@ -1,6 +1,6 @@
 public class FakultaetRekursion {
     public static void main(String[] args) {
-        System.out.println(fakultaet(3));
+        System.out.println(fakultaet(4));
     }
     public static int fakultaet(int value) {
         if (value <= 1) {
